@@ -1,4 +1,6 @@
 public class Collatz {
+// refresh
+
     public static void main(String args[]) {
         int N = Integer.parseInt(args[0]);
         String mode = args[1];

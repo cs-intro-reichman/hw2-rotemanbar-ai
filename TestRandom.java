@@ -20,4 +20,6 @@ public  class  TestRandom {
 		double ratio = (double) greater / smallerEq;
 		System.out.println("Ratio:  " + ratio);
 	}
+	// refresh
+
 }
