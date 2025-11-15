@@ -14,3 +14,6 @@ public class TimeCalc {
     // refresh
 
 }
+
+// Looks good :)
+
