@@ -9,7 +9,9 @@ public class Collatz {
             int x = i;
             int count = 1;
 			if (mode.equals("v") && i == 1) {
-                System.out.println("1 4 2 1 (4)");
+				
+                System.out.println("1 4 2 1 (4)"); // Why is this line needed? 
+				
                 continue; 
             }
 
@@ -37,3 +39,5 @@ public class Collatz {
         System.out.println("Every one of the first " + N + " hailstone sequences reached 1.");
     }
 }
+
+// nice approach :)
